@@ -1,4 +1,4 @@
-# C35
+# C35 - a Calculator, Based on the Famous HP-35 ROM.
 
   Scientific RPN Calculator with OLED display and ATMEGA microcontroller
   Version 1.0, (c) 2019 by deetee/zooxo
